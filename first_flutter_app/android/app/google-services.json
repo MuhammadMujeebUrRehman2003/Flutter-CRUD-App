@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059896746324",
+    "project_id": "crudapp-d3032",
+    "storage_bucket": "crudapp-d3032.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059896746324:android:ba4a54a5de03912c14e8c1",
+        "android_client_info": {
+          "package_name": "com.example.first_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGAu6hnrKkoja5IDYNRYYBmtVofZEAMfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
